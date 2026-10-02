@@ -1,1 +1,0 @@
-koordynator: JAKUB PALUSZEK
