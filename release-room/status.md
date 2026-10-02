@@ -2,7 +2,6 @@
 
 Wersja: 1.0
 Stan wydania: ZABLOKOWANE
-Decyzja wdrożeniowa: NIEUSTALONA
-
+Decyzja wdrożeniowa: WDRAŻAMY W PONIEDZIAŁEK
 
 Koordynator:P4LCH
