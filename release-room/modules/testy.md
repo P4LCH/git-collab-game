@@ -1,5 +1,5 @@
-# Moduł testy
+# Testy
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: SzymonKurek-It
+Stan: GOTOWY
+Opis zmiany: Sprawdzono podstawowe scenariusze wydania.
